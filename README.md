@@ -1,6 +1,6 @@
 # jbook3
 
-## Java言語プログラミングレッスン 第3版　公式ダウンロードサイト のEclipseで実行可能なJavaプロジェクト化
+### Java言語プログラミングレッスン 第3版　公式ダウンロードサイト のEclipseで実行可能なJavaプロジェクト化
 
 Java言語プログラミングレッスン 第3版　公式ダウンロードサイト
 http://www.hyuki.com/jb/
@@ -8,7 +8,7 @@ http://www.hyuki.com/jb/
  Linux用, 文字コードはUTF-8で改行はLF
 jbook3_2012-11-14_linux.zip
 
-## サンプルサイトからの変更箇所
+### サンプルサイトからの変更箇所
 * 各ファイルの一行目にpackage 宣言追加
 * import分をEclipseのimport文補完機能で自動生成
 * パッケージのフォルダパスにハイフン"-"は許されていないため、
