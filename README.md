@@ -9,7 +9,7 @@
 ### Java言語プログラミングレッスン 第3版　サンプルコード のEclipseでJavaプロジェクト化
 
 Java言語プログラミングレッスン 第3版　公式ダウンロードサイト  
-http://www.hyuki.com/jb/
+http://www.hyuki.com/jb/  
 ページ下部の  
  Linux用, 文字コードはUTF-8で改行はLF  
 jbook3_2012-11-14_linux.zip  
