@@ -1,6 +1,6 @@
 # jbook3
 
-### Java言語プログラミングレッスン 第3版　公式ダウンロードサイト のEclipseで実行可能なJavaプロジェクト化
+### Java言語プログラミングレッスン 第3版　サンプルコード のEclipseでJavaプロジェクト化
 
 Java言語プログラミングレッスン 第3版　公式ダウンロードサイト
 http://www.hyuki.com/jb/
