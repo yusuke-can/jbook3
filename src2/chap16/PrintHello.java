@@ -1,22 +1,28 @@
 package chap16;
 
-class LabelPrinter {
-    String label = "no label";
-    LabelPrinter(String label) {
-        this.label = label;
-    }
-    @Override
-    public static void run() {
-        while (true) {
-            System.out.println(label);
-            Thread.sleep(1000);
-        }
-    }
-}
-
-public class PrintHello {
-    public static void main(String[] args) {
-        LabelPrinter th = new LabelPrinter("こんにちは！");
-        th.start();
-    }
-}
+/* TODO: [Fixie] コメントアウトして修正し、動作確認してみましょう！
+ * 第16章 スレッド p.187
+ * 問題16-2 List16-12です。
+ *
+ *
+ */
+//class LabelPrinter {
+//    String label = "no label";
+//    LabelPrinter(String label) {
+//        this.label = label;
+//    }
+//    @Override
+//    public static void run() {
+//        while (true) {
+//            System.out.println(label);
+//            Thread.sleep(1000);
+//        }
+//    }
+//}
+//
+//public class PrintHello {
+//    public static void main(String[] args) {
+//        LabelPrinter th = new LabelPrinter("こんにちは！");
+//        th.start();
+//    }
+//}
