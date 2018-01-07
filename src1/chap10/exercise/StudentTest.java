@@ -1,5 +1,7 @@
 package chap10.exercise;
 
+import app_a.chap10.Student;
+
 public class StudentTest {
     public static void main(String[] args) {
         Student[] data = {
