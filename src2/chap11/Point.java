@@ -1,10 +1,27 @@
 package chap11;
 
-class Point {
-    int x;
-    int y;
-    static void setPosition(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-}
+/* TODO:[Fixie]: コメントアウトを外して自分でコンパイルエラーを修正してみましょう！
+ * eclipseが自動補完機能で修正してくれませんので、自分で考える必要があります。
+ *
+ * それにしても、
+ * コンパイルエラーメッセージである
+ *
+ * [static コンテキストでは this を使用できません]
+ *
+ * は分かりにく過ぎではないだろうか？
+ * 英語のコンパイルエラーメッセージを直訳しているだけだと思いますが...
+ *
+ * Googleのキーワード検索で下記の行をコピペして検索して一番上に出てくるサイトをみると
+ * 共感できることが書いてあるかもね！
+ *
+ * 怒りのＪａｖａ学習 static コンテキストでは this を使用できません
+ *
+ */
+//class Point {
+//    int x;
+//    int y;
+//    static void setPosition(int x, int y) {
+//        this.x = x;
+//        this.y = y;
+//    }
+//}

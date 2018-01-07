@@ -1,5 +1,21 @@
 package app_a.chap14;
 
-public class Delta extends Alpha implements Beta, Gamma {
-    // 省略
-}
+/* TODO:[Fixie]: テキストの練習問題の解答としてはこれで正解です。
+ * ただ、余裕のある人、興味のある人は
+ * ・Alphaクラス
+ * ・Betaインタフェース
+ * ・Gammaインターフェース
+ * を作って上記のクラス、インタフェースから継承した抽象メソッドを実装し、
+ * このクラスにmainメソッドを実行してみましょう！
+ *
+ * はたしてうまく動くでしょうか？
+ * ・Alphaクラスにどんなメソッドを実装するか、どんな抽象メソッドを定義するか？
+ * ・Betaインタフェース、Gammaインターフェースにどんな抽象メソッドを定義するか？
+ * 自分で考えてみましょう。
+ *
+ * そこまでできれば
+ * 14章. クラスとインタフェースの比較 についてはパーフェクトです！
+ */
+//public class Delta extends Alpha implements Beta, Gamma {
+//    // 省略
+//}
